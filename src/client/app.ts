@@ -1302,7 +1302,7 @@ export class App {
                 //this.userSettings.createConstraints(this.userSettings.videoResolution)
                 this.getLocalStream(
                     UserSettings.defaultConstraints(
-                        this.userSettings.videoDevice, this.userSettings.videoResolution
+                        this.userSettings.videoDevice, this.userSettings.videoResolution, true
                     ),
                     (mediaStream: MediaStream) => {
                         DOMUtils.get("#await-streams").classList.toggle("hide");
