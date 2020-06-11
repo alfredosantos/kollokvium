@@ -1,4 +1,4 @@
-# Kollokvium (colloquium)
+# Meet4you
 
 ## about
 
@@ -8,7 +8,7 @@ Unnecessary logins, user registrations and data should not flow through third pa
 
 >Our digital meetings should be flexible, resilient and protected!
 
-Kollokvium target companies, associations and individuals, both young and old, perhaps especially those without any deeper computer experience as it requires no installation or signup and can be started simply by following a link and clicking start.
+Meet4you target companies, associations and individuals, both young and old, perhaps especially those without any deeper computer experience as it requires no installation or signup and can be started simply by following a link and clicking start.
 
 Unlike many other video conferencing technologies we passes everyone’s Media Streams to all participants, rather than sending the to a central media server for mixing the streams,
 The result is lower latency, better quality, privacy and security, as data flow P2P , there is now middleman involved, except in the setup phase of the room's (negotiation) , not nothing is stored at server(s)  and data is ofcourse encrypted, our server is just a message broker . 
@@ -57,5 +57,4 @@ Goodluck, and if run into problems, bugs or questions or just have ideas to shar
 
 Regards
 
-Team Kollokvium (colloquium)
- 
+Team Meet4you
